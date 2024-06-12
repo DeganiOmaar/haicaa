@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569342930813",
+    "project_id": "haica-10682",
+    "storage_bucket": "haica-10682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569342930813:android:037bd81990b9ac33156614",
+        "android_client_info": {
+          "package_name": "com.example.haica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpS3riGA6g6iW1lz6Mwtjt5elb63IViI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
